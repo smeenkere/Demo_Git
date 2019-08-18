@@ -8,5 +8,5 @@ function func {
     done
     echo "Total count of arguments: $#"
 }
-func We are argument variable
+func We are argument variable Added
 
