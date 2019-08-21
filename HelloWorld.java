@@ -8,7 +8,7 @@ class HelloWorld
     { 
         System.out.println("Hello, SAndy"); 
         System.out.println("Test-Commit");
-//	System.out.println("Git-Commit");
+	System.out.println("Git-Commit");
 
         
     } 
